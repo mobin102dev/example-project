@@ -1,0 +1,10 @@
+# Ignore artifacts:
+.angular
+.vscode
+.husky
+.browserslistrc
+karma.conf.js
+README.md
+.idea
+yarn.lock
+node_modules
